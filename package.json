@@ -1,6 +1,6 @@
 {
   "name": "pokedex",
-  "homepage": "https://github.com/sushrith/pokedex",
+  "homepage": "https://sushrith.github.com/pokedex",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
